@@ -1,0 +1,10 @@
+C:\Users\aleks\OneDrive\Desktop\VS PROJEKTI\UFR\UFR\obj\Release\UFR.Form1.resources
+C:\Users\aleks\OneDrive\Desktop\VS PROJEKTI\UFR\UFR\obj\Release\UFR.Properties.Resources.resources
+C:\Users\aleks\OneDrive\Desktop\VS PROJEKTI\UFR\UFR\obj\Release\UFR.csproj.GenerateResource.cache
+C:\Users\aleks\OneDrive\Desktop\VS PROJEKTI\UFR\UFR\obj\Release\UFR.csproj.CoreCompileInputs.cache
+C:\Users\aleks\OneDrive\Desktop\VS PROJEKTI\UFR\UFR\bin\Release\UFR.exe.config
+C:\Users\aleks\OneDrive\Desktop\VS PROJEKTI\UFR\UFR\bin\Release\UFR.exe
+C:\Users\aleks\OneDrive\Desktop\VS PROJEKTI\UFR\UFR\bin\Release\UFR.pdb
+C:\Users\aleks\OneDrive\Desktop\VS PROJEKTI\UFR\UFR\obj\Release\UFR.csprojAssemblyReference.cache
+C:\Users\aleks\OneDrive\Desktop\VS PROJEKTI\UFR\UFR\obj\Release\UFR.exe
+C:\Users\aleks\OneDrive\Desktop\VS PROJEKTI\UFR\UFR\obj\Release\UFR.pdb
